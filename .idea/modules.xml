@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Leader/Leader.iml" filepath="$PROJECT_DIR$/Leader/Leader.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ServerTest/ServerTest.iml" filepath="$PROJECT_DIR$/ServerTest/ServerTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServerCode/ServerCode.iml" filepath="$PROJECT_DIR$/ServerCode/ServerCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/TeamMember1/TeamMember1.iml" filepath="$PROJECT_DIR$/TeamMember1/TeamMember1.iml" />
       <module fileurl="file://$PROJECT_DIR$/TeamMember2/TeamMember2.iml" filepath="$PROJECT_DIR$/TeamMember2/TeamMember2.iml" />
       <module fileurl="file://$PROJECT_DIR$/TeamMember3/TeamMember3.iml" filepath="$PROJECT_DIR$/TeamMember3/TeamMember3.iml" />

@@ -24,7 +24,7 @@ server-side process that handles multiple client connections.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
+   git clone https://github.com/SiamSarker/ProjectManagement_javaFX.git
    ```
 
 2. Open the project in IntelliJ IDEA.
