@@ -1,6 +1,9 @@
 # Multi-Client Server System with JavaFX and Socket Programming
 
-This project is a multi-client server system that demonstrates communication between clients and a server using Java, JavaFX, and socket programming. It includes a leader and team member interaction system with a server-side process that handles multiple client connections.
+This project is a multi-client server system that demonstrates 
+communication between clients and a server using Java, JavaFX, and socket 
+programming. It includes a leader and team member interaction system with a 
+server-side process that handles multiple client connections.
 
 ## Features
 
