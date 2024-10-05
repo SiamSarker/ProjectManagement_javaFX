@@ -1,12 +1,13 @@
-# Project Title
+# Multi-Client Server System with JavaFX and Socket Programming
 
-This project is a multi-client server system that demonstrates communication between clients and a server using Java and JavaFX. It includes a leader and team member interaction system with a server-side process.
+This project is a multi-client server system that demonstrates communication between clients and a server using Java, JavaFX, and socket programming. It includes a leader and team member interaction system with a server-side process that handles multiple client connections.
 
 ## Features
 
-- Multi-client server system
-- JavaFX-based GUI for interaction
+- Multi-client server system using Java sockets for communication
+- JavaFX-based GUI for interaction between clients and server
 - Runnable in IntelliJ IDEA with JavaFX configuration
+- Server-side socket management to handle multiple client connections
 
 ## Setup Instructions
 
@@ -36,9 +37,13 @@ This project is a multi-client server system that demonstrates communication bet
 
 5. Build and run the project:
    - Build the project with `Build > Build Project`.
-   - Run the `Leader` and `ServerCode` classes as necessary.
+   - Run the `Leader` and `ServerCode` classes as necessary. The server class will establish socket connections and allow clients to communicate through it.
 
 ## Running the Application
 
-1. First, run the `ServerCode` to start the server.
-2. Then, run the `Leader` and other team members to connect to the server.
+1. First, run the `ServerCode` to start the server. This will create a socket to listen for client connections.
+2. Then, run the `Leader` and other team members to connect to the server through sockets.
+
+## Socket Communication
+
+The `ServerCode` uses Java sockets to establish a server-client connection. The server listens on a specific port for incoming connections from clients, and each client communicates with the server through this socket connection. The server is responsible for managing multiple connections and relaying messages between clients.
