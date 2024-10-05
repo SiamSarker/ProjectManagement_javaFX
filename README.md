@@ -12,6 +12,11 @@ server-side process that handles multiple client connections.
 - Runnable in IntelliJ IDEA with JavaFX configuration
 - Server-side socket management to handle multiple client connections
 
+## Demo Video
+
+[![Watch the Demo](https://img.youtube.com/vi/LsZdV9ICpFI/0.jpg)](https://www.youtube.com/watch?v=LsZdV9ICpFI)
+
+
 ## Setup Instructions
 
 ### Prerequisites
